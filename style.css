@@ -1,0 +1,50 @@
+.heading {
+    width: 100%;
+    font-size: 20px;
+    margin-top: 0px;
+    background-color: blue;
+    box-shadow: 5px 5px 5px aqua;
+}
+
+.heading_div {
+    float: none;
+    background-color: chartreuse;
+    padding: 10px;
+    color: darkgreen;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px aqua;
+}
+
+.heading_div2 {
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.result_para_tag {
+    box-shadow: 5px 5px 5px aqua;
+    font-size: 20px;
+}
+
+.copy_right_footer{
+    background-color: blue;
+    bottom:0;
+    position:fixed;
+    width: 100%;
+    color:cadetblue;
+    text-align:center;
+    line-height:3;
+}
+
+canvas{
+    border:5px solid black;
+    margin-top:130px;
+}
+#quote{
+    background-color: aquamarine;
+    color: blue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    width: 70%;
+}
